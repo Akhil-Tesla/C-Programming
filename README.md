@@ -30,3 +30,23 @@ printf is used to display the output of the given data in C
               x=a+b;
             printf("sum = %d",&x);
             }
+
+Scanf is used to take input from the user 
+To access the address of the input C uses ampersand (&) to store the address.
+
+FORMAT SPECIFIERS 
+•To access the address of the given data and to write the data into variables C uses these format specifiers for assigning address 
+For int %d or %i
+    Float %f
+    String %s
+    Char %C
+....
+
+
+ #include<stdio.h>
+  int main(){
+  int a =1;
+  float b=2;
+  char c='a';
+  printf(" %d\n%f\n%c",a,b,c);
+  }
