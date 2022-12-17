@@ -40,13 +40,13 @@ For int %d or %i
     Float %f
     String %s
     Char %C
-....
 
+Program 
 
- #include<stdio.h>
-  int main(){
-  int a =1;
-  float b=2;
-  char c='a';
-  printf(" %d\n%f\n%c",a,b,c);
-  }
+          #include<stdio.h>
+           int main(){
+            int a =1;
+            float b=2;
+            char c='a';
+           printf(" %d\n%f\n%c",a,b,c);
+           }
