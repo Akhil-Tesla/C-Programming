@@ -50,3 +50,23 @@ Program
             char c='a';
            printf(" %d\n%f\n%c",a,b,c);
            }
+
+Manipulation of data types 
+
+To do math in C we use int , float data types 
+for +,-,*,/,//(floor divison)
+
+program 
+
+        #include<stdio.h>
+        int main(){
+          int a=3,b=2;
+          printf("sum = %d",a+b);
+          printf("Subtraction = %d",a-b);
+          print("Multiple = %d",a*b);
+          float x= 36.14;
+          float y= 6.2;
+           printf("division =%f",x/y);
+
+           return 0;
+        }
