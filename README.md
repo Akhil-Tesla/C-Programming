@@ -70,3 +70,16 @@ program
 
            return 0;
         }
+
+
+for making taking input we use scanf function to take input from user 
+
+     
+      #include<stdio.h>
+       int main(){
+            printf("Enter two numbers ");
+            int a , b,c; //declaring variables 
+            scanf("%d %d",&a,&b);
+            c=a+b;
+            printf("\nsum of numbers is %d");
+      }
