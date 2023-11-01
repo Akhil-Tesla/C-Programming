@@ -28,7 +28,7 @@ printf is used to display the output of the given data in C
            int main(){
             a=3,b=6;
               x=a+b;
-            printf("sum = %d",&x);
+            printf("sum = %d",x);
             }
 
 Scanf is used to take input from the user 
