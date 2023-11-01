@@ -26,8 +26,8 @@ printf is used to display the output of the given data in C
 
           #include<stdio.h>
            int main(){
-            a=3,b=6;
-              x=a+b;
+            int a=3,b=6;
+            int x=a+b;
             printf("sum = %d",x);
             }
 
