@@ -81,5 +81,5 @@ for making taking input we use scanf function to take input from user
             int a , b,c; //declaring variables 
             scanf("%d %d",&a,&b);
             c=a+b;
-            printf("\nsum of numbers is %d");
+            printf("\nsum of numbers is %d",c);
       }
