@@ -72,14 +72,20 @@ program
         }
 
 
-for making taking input we use scanf function to take input from user 
+for taking input we use scanf function to take input from user 
 
      
-      #include<stdio.h>
-       int main(){
-            printf("Enter two numbers ");
-            int a , b,c; //declaring variables 
-            scanf("%d %d",&a,&b);
-            c=a+b;
-            printf("\nsum of numbers is %d",c);
+     #include<stdio.h>
+      int main(){
+           printf("Enter two numbers ");
+           int a , b,c; //declaring variables 
+           scanf("%d %d",&a,&b);
+           c=a+b;
+         printf("\nsum of numbers is %d",c);
       }
+
+The operators for manipulating data in C divided into 
+1.Arithmetic operatord 
+2.Conditional operators
+3.Logical operators 
+4.Bitwise operators 
