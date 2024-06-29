@@ -56,7 +56,6 @@ Program
 **Manipulation of data types** 
 
 To do math in C we use int , float data types 
-for 
 - Addition (+)
 - Subtraction(-)
 - Multiplication(*)
@@ -99,10 +98,10 @@ The operators for manipulating data in C divided into
 
 Variables : Anything that stores the value .
 
-int cars= 10
-float speed = 143.789
-double pi = 3.1428579631274639
-char letter ='L'
+int cars= 10 ,
+float speed = 143.789 ,
+double pi = 3.1428579631274639 ,
+char letter ='L'.
 
 
 A variable can be anything that can store the values of specified format 
