@@ -58,6 +58,8 @@ Program
 To do math in C we use int , float data types 
 for 
 - Addition (+)
+- Subtraction(-)
+- Multiplication(*)
 - ,-,*,/,//(floor divison)
 
 program 
