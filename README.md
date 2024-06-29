@@ -53,10 +53,12 @@ Program
            printf(" %d\n%f\n%c",a,b,c);
            }
 
-Manipulation of data types 
+**Manipulation of data types** 
 
 To do math in C we use int , float data types 
-for +,-,*,/,//(floor divison)
+for 
+- Addition (+)
+- ,-,*,/,//(floor divison)
 
 program 
 
