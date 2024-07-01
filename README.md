@@ -59,7 +59,8 @@ To do math in C we use int , float data types
 - Addition (+)
 - Subtraction(-)
 - Multiplication(*)
-- ,-,*,/,//(floor divison)
+- Division (/)
+- Floor Division(//)
 
 program 
 
@@ -77,7 +78,7 @@ program
         }
 
 
-for taking input we use scanf function to take input from user 
+- For taking input we use scanf function to take input from user 
 
      
     #include<stdio.h>
