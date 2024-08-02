@@ -97,7 +97,7 @@ The operators for manipulating data in C divided into
 4.Bitwise operators 
 
 
-Variables : Anything that stores the value .
+*Variables* : Anything that stores the value .
 
 int cars= 10 ,
 float speed = 143.789 ,
