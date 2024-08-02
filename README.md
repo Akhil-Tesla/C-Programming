@@ -103,7 +103,7 @@ The operators for manipulating data in C divided into
 * float speed = 143.789 ,
 * double pi = 3.1428579631274639 ,
 * char letter ='L',
-
+* string = "I am Ironman";
 
 A variable can be anything that can store the values of specified format 
 
