@@ -38,6 +38,7 @@ Scanf is used to take input from the user
 To access the address of the input C uses ampersand (&) to store the address.
 
 FORMAT SPECIFIERS 
+
 •To access the address of the given data and to write the data into variables C uses these format specifiers for assigning address 
 For int %d or %i
     Float %f
@@ -57,11 +58,11 @@ Program
 **Manipulation of data types** 
 
 To do math in C we use int , float data types 
-- Addition (+)
-- Subtraction(-)
-- Multiplication(*)
-- Division (/)
-- Floor Division(//)
+ *- Addition (+)
+ *- Subtraction(-)
+ *- Multiplication(*)
+ *- Division (/)
+ *- Floor Division(//)
 
 program 
 
