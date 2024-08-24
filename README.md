@@ -94,8 +94,8 @@ program
 # Operators
 
 The operators for manipulating data in C divided into 
-1.Arithmetic operatord 
-2.Conditional operators
+_*Arithmetic operators*_ 
+_*Conditional operators*_
 3.Logical operators 
 4.Bitwise operators 
 
