@@ -108,6 +108,5 @@ The operators for manipulating data in C divided into
 
 A variable can be anything that can store the values of specified format 
 
-
-##Control flow
+## Control flow
 
