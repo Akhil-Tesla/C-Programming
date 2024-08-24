@@ -58,11 +58,11 @@ Program
 **Manipulation of data types** 
 
 To do math in C we use int , float data types 
- *- Addition (+)
- *- Subtraction(-)
- *- Multiplication(*)
- *- Division (/)
- *- Floor Division(//)
+ * Addition (+)
+ * Subtraction(-)
+ * Multiplication(*)
+ * Division (/)
+ * floor Division(//)
 
 program 
 
